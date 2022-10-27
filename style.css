@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+}
+#home{
+    bottom: 0;
+    background: linear-gradient(#005eff 0%, #084700 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    color: white;
+    z-index: 9;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#name{
+    font-size: 50px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+.mi_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.contact_1 h3{
+    display: inline;
+}
+#prin{
+    width: 350px;
+}
+#safe{
+    width: 150;
+}
+#testr{
+    background: #FF6300;
+    color: white;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+}
+#tests{
+    background: #498419;
+    color: white;
+}
+#obs{
+    width: 350px;
+}
+#lv{
+    width: 200px;
+}
+#rep{
+    color: #FF6300;
+}
+#un{
+    width: 200px;
+}
+#test{
+    align-items: center;
+}
